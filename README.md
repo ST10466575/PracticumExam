@@ -6,8 +6,11 @@
 ![Screenshot 2025-06-19 135801](https://github.com/user-attachments/assets/4cb08bfa-f516-4239-a7ea-28caa6bb94be)
 ![Screenshot 2025-06-19 135813](https://github.com/user-attachments/assets/39a46f3b-761a-4761-b0c8-d0412b1195fc)
 
+screenshot 1 is the main menue 
+screenshot 2 is a continuation of screenshot number 1 
+screemshot 3 is where youll find the code for the playlist 
 ScreenShot 4 is the main screen which is where you would insert the name of the song,artist,rating and comments
 screenshot 5 is the where you will find your playlist where you have saved all your favourite songs 
 
-
+Source code 
 https://github.com/ST10466575/PracticumExam.git
