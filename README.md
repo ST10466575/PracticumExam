@@ -8,3 +8,5 @@
 
 ScreenShot 4 is the main screen which is where you would insert the name of the song,artist,rating and comments
 screenshot 5 is the where you will find your playlist where you have saved all your favourite songs 
+
+
